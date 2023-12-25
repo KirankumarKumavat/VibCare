@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044254963589",
+    "firebase_url": "https://vibcare-519c7.firebaseio.com",
+    "project_id": "vibcare-519c7",
+    "storage_bucket": "vibcare-519c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044254963589:android:8a5719348e7d4c2bb2f6ec",
+        "android_client_info": {
+          "package_name": "com.vibcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044254963589-035kf6ed31qdc818qdq06l4v4rud1u60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYcx6xBQbkthrNYbSnGG2AhGCwhnRmtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044254963589-035kf6ed31qdc818qdq06l4v4rud1u60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044254963589-e3edupp5nrm0c7e1ncjhjrll8s8atfou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.VibCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
